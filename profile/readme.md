@@ -1,3 +1,3 @@
-## JH Development
+## hypews development
 
 **Hello, we write code!**
